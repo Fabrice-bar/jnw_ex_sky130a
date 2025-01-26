@@ -1,0 +1,21 @@
+ibn:
+  src:
+    - ibns_20u
+  typ: 20
+  name: Output current
+  min: -20%
+  max: 20%
+  scale: 1e6
+  digits: 3
+  unit: uA
+
+vgs:
+  src:
+    - vgs_m1
+  typ: 0.6
+  name: Gate-Source voltage
+  min: 0.3
+  max: 0.7
+  scale: 1
+  digits: 3
+  unit: V
