@@ -10,11 +10,11 @@ fabriceb
 
 # Why
 
-<explain why you made this module>
+Get familiar with the tools i will be using for the course
 
 # How
 
-<explain short how you made this module>
+I followed the given tutorial
 
 
 # What
@@ -36,9 +36,9 @@ fabriceb
 
 | Signal       | Direction | Domain  | Description                               |
 | :---         | :---:     | :---:   | :---                                      |
-| VDD_1V8         | Input     | VDD_1V8 | Main supply                              |
+| IBPS_5U         | Input     |  |                               |
 | VSS         | Input     | Ground  |                                           |
-| PWRUP_1V8     | Input    | VDD_1V8 | Power up the circuit                       |
+| IBNS_20U     | Input    |  |                        |
 
 
 # Key parameters
