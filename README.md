@@ -6,7 +6,7 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-fabriceb
+fabrice baricako
 
 # Why
 
